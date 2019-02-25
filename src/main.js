@@ -85,4 +85,9 @@ info.addEventListener("click", () => {
     statsPok.innerHTML + -"";
 
   });
-})
+});
+
+const getComputeStats() = {
+  window.elemento.computeStats(dataPokes)
+  
+}
