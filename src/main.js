@@ -22,9 +22,7 @@ const imprimir = (obtenerTipo) => {
   pokemons.innerHTML = "";
   obtenerTipo.map((dataPokes) => {
     pokemons.innerHTML += `<div class="imagesPokemon"><figure>
-
 <img src="${dataPokes.img}"></figure>
-
 <div class="texto-pokemon"><p>Nombre: ${ dataPokes.name}</p>
 <p> Candy: ${ dataPokes.candy}</p>
 <p> Altura: ${ dataPokes.height}</p>
@@ -32,7 +30,6 @@ const imprimir = (obtenerTipo) => {
 <p> Avg Spawns: ${ dataPokes.avg_spawns}</p>
 <p> Debilidades: </p>
 <p>${ dataPokes.weaknesses}</p></div>
-
 </div>`
   })
 
