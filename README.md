@@ -28,7 +28,7 @@ Con el éxito del primer videojuego, en abril de 1997, se estrenó en Japón el 
 
 ## Historias de Usuario
 
-![](src/historias.png)
+![](src/users.png)
 
 ## Prototipos
 
@@ -38,7 +38,7 @@ Con el éxito del primer videojuego, en abril de 1997, se estrenó en Japón el 
 ## Pruebas de Usabilidad
 
 Las pruebas de usabilidad se aplicaron a 19 personas, de las cuáles se obtuvo de la gran mayoría la aceptación y buena experiencia. 
-Sin embargo una muy pequeña minoría externo su disgusto hacia ciertos elementos de diseño, como tipos de fuente, fondo, posicionamiento, además sugerieron que la experiencia mejoraría al agregar sonido. 
+Sin embargo una muy pequeña minoría, constituída por 2 personas externo su disgusto hacia ciertos elementos de diseño, como tipos de fuente, fondo, posicionamiento, además sugerieron que la experiencia mejoraría al agregar sonido. 
 
 ![](src/5.png)
 ![](src/6.png)
@@ -81,6 +81,47 @@ Usuario de "slack"
 ## Autores
 
 ![](src/imagen1.png)
+
+## Heurística
+-Visibilidad de Estado:
+
+No se muestra un estado, pero lo que más bien funcionaría aquí sería mostrarle de forma simple el recorrido que ha realizado desde el inicio de la página siempre y cuando éstas sean muchas.
+
+-Relación con el Mundo Real:
+
+La información se encuentra de forma lógica y natural, y se le apoya en cuanto a los íconos de filtrado con palabras que aparecen ya sean al clickearlas o poner encima el cursor.
+
+-Libertad y Control del Usuario:
+
+No se encuentra un botón de salida, y aunque me pareció innecesario al principio, considero que al tener muchas pantallas podría serlo.
+
+-Consistencia y Estándares:
+
+Contiene convenciones, no resulta confuso o implícito.
+
+-Prevención de Errores:
+
+No se presta de ninguna manera a un error, no contiene buscadores de texto o parecido.
+
+-Reconocer antes que Recordar:
+
+Se ultilizan formas, diseño e ilustraciones fáciles de identificar y conocer su significado.
+
+-Flexibilidad y Eficiencia de Uso:
+
+Útil tanto para usuarios básicos como avanzados.
+
+-Diseño estético y minimalista:
+
+Definitivamente, pese a que los pókemons son personajes animados, la aplicación no se saturó de colores e imágenes estridentes, sino de resaltar las imagenes con un fondo negro y colores de fuentes cálidos.
+
+-Reconocer, diagnosticar y recuperarse de los errores:
+
+No se presentan errores debido a la sencillez y simplicidad del proyecto.
+
+-Ayuda y documentación:
+ No se presenta ayuda y documentación dada la dimensión de la lógica del proyecto que es básico.
+
 
 ________
 
