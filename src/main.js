@@ -55,7 +55,6 @@ const getOrderPokemon = (arrayButtonRadio) => {
 
   });
 
-
   //creando slash//
   setTimeout(function () {
     document.getElementById("splash").className = "hide";
